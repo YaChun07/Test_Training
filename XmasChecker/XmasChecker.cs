@@ -1,4 +1,6 @@
-﻿namespace XmasChecker
+﻿using System;
+
+namespace XmasChecker
 {
     public class XmasChecker
     {

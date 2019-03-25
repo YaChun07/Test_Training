@@ -14,7 +14,8 @@ namespace XmasChecker.Tests
         [TestMethod()]
         public void IsTodayXmasTest()
         {
-            Assert.Fail();
+            var xmasChecker = new XmasChecker();
+            xmasChecker.IsTodayXmas();
         }
     }
 }
